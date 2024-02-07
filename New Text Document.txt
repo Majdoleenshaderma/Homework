@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Vegetables</title>
+</head>
+
+<body>
+    <div>
+        <h1>
+            Vegetables
+        </h1>
+        <hr>
+        <h3>
+            Tomato
+        </h3>
+        <p>
+            Tomatoes are a plant of high economic importance from the Solanaceae family. Tomatoes are grown in temperate and hot regions and belong to the genus Solanum (such as potato and basil), which includes several other wild species. Its scientific name is
+            (in Latin: Solanum lycopersicum).The name tomato comes from the Aztec language in central Mexico and is derived from a Nautilus word called tomatl, literally “swollen fruit.” It is called in English (tomato) and tomato (from Italian) (pomodori).
+            Tomatoes originated in South America, and spread throughout the world, after the Spanish colonization of the Americas. Tomatoes are now grown on a large scale, and are often grown in greenhouses to maintain the temperature.
+        </p>
+        <img src="to.jpg_480Wx480H" alt="Tomato" width="100PX"></img>
+        <hr>
+        <h3>
+            Option
+        </h3>
+        <p>
+            Cucumber, or cucumber, is a climbing garden plant from the Cucurbitaceae family, which includes squash, zucchini, and all types of watermelon. It is planted in the ground to a depth of between 12-18 mm and then extends upwards and spreads the materials
+            around it. Farmers usually support them with supports such as sticks or plant them near walls. Its cultivation pattern is often in the form of single lines extending over the surface of the earth, and it is harvested more than once throughout
+            the year, as it is estimated to remain between 80-100 days. It is native to Southeast Asia, but its cultivation has spread in many places in the world. It is eaten fresh when it is raw, and the warm weather is considered suitable for its growth.
+        </p>
+        <img src="خيار.jpg" alt="Option" width="150PX"></img>
+        <hr>
+        <h3>
+
+            Lettuce
+        </h3>
+        <p>
+            Horticultural lettuce or cultivated lettuce (scientific name: Lactuca sativa) is a type of plant in the genus Lettuce of the Asteraceae or broadleaf family. Lettuce is a vegetable whose leaves are eaten fresh, raw or in salads. It is rich in nutrients,
+            especially vitamins, salts, oils and protein.
+        </p>
+        <img src="خس.jpg_480Wx480H" alt="Lettuce" width="150PX"></img>
+    </div>
+</body>
+<footer>
+
+</footer>
+
+</html>
