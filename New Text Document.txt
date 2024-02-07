@@ -15,3 +15,20 @@ Differences between <div> and <section> tag:
 -Div tag contains all the elements where the <p> tag should not force to do it
 
 Source:https://www.geeksforgeeks.org/what-is-the-difference-between-section-and-div-tags-in-html/
+
+
+Differentiate between <article> and <p>  tags in HTML:
+1-<article>:
+-  Article tag is a semantic tag.
+- When to use:
+*Blog article
+*Newspapers/ Magazines article
+*Forum Post
+-Default CSS display property is“Block”
+
+2-<p>:
+-Paragraph is presentational and semantic tag.
+-When to use: Adding multiple paragraphs in articles, stories, informative blogs.
+-Default CSS display property is “Block”
+
+Source:https://www.geeksforgeeks.org/differentiate-between-article-p-section-tags-in-html/
