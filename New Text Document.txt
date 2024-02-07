@@ -1,0 +1,17 @@
+Differences between <div> and <section> tag:
+1-<div>:
+-It is called as division tag.
+-It represents its child elements and doesn’t have a special meaning.
+-It doesn’t have any specific meaning.
+-Use <div> element for style purposes in webpage.
+-It is not a generic container and global attributes
+-Section tag containing article elements in html
+2-<section> :
+-It is called as section tag.
+-It represents its child elements and has a special meaning.
+-It describes its meaning in the web page.
+-use <section> during requirements of headers or footers.
+-It is a generic container
+-Div tag contains all the elements where the <p> tag should not force to do it
+
+Source:https://www.geeksforgeeks.org/what-is-the-difference-between-section-and-div-tags-in-html/
